@@ -14,12 +14,16 @@ Your users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
+## Languages :computer: 
+
+- **HTML** 
+- **CSS**
 
 ## Sharing your solution
 
-There are multiple places you can share your solution:
-
+Click [HERE](https://four-card-feature-section-plum-seven.vercel.app) to see the solution.
 
 ## Giving feedback
 
+Feedback is always welcome, so if you have any to give on this challenge please email gcgonzalez99@hotmail.com
 
